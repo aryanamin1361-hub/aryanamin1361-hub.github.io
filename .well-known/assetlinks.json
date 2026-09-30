@@ -1,0 +1,8 @@
+[{
+  "relation": ["delegate_permission/common.handle_all_urls"],
+  "target": {
+    "namespace": "android_app",
+    "package_name": "com.dosedrill.app",
+    "sha256_cert_fingerprints": ["09:3E:81:26:72:B1:C2:8B:4E:36:AB:47:60:27:DC:17:E6:39:4D:E7:E5:44:58:3B:27:D0:57:C5:3A:00:BB:21"]
+  }
+}]
