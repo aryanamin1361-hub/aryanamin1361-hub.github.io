@@ -1,8 +1,15 @@
-[{
-  "relation": ["delegate_permission/common.handle_all_urls"],
-  "target": {
-    "namespace": "android_app",
-    "package_name": "com.dosedrill.app",
-    "sha256_cert_fingerprints": ["09:3E:81:26:72:B1:C2:8B:4E:36:AB:47:60:27:DC:17:E6:39:4D:E7:E5:44:58:3B:27:D0:57:C5:3A:00:BB:21"]
+[
+  {
+    "relation": [
+      "delegate_permission/common.handle_all_urls"
+    ],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "com.dosedrill.app",
+      "sha256_cert_fingerprints": [
+        "FA:70:20:E3:0F:C1:CA:8C:EA:28:87:72:2A:7D:B0:18:D1:A1:86:1E:9E:44:69:FE:F8:0E:33:7A:86:54:4B:B3",
+        "09:3E:81:26:72:B1:C2:8B:4E:36:AB:47:60:27:DC:17:E6:39:4D:E7:E5:44:58:3B:27:D0:57:C5:3A:00:BB:21"
+      ]
+    }
   }
-}]
+]
